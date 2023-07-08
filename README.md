@@ -43,3 +43,18 @@ Set the starting filter number, set the filter criteria, such as whether the num
 
 The fee will be charged according to the actual number of screening, and the unfinished part will not be charged. The fee starts at 0.2crownsoft coin for each eligible number screened.
 
+![1](https://github.com/whatsapp-filter/CrownSoft-WhatsApp-Cloud-Filter/assets/130629588/d315ca98-4d7f-4ffe-bd2b-4aea209db380)
+
+-Screenshot of software background-
+
+![2](https://github.com/whatsapp-filter/CrownSoft-WhatsApp-Cloud-Filter/assets/130629588/764ded5a-f4a5-4654-b9ff-a6a060091ac8)
+
+Create a WhatsApp Cloud Filter task,enter task name, enter country code (required), enter starting number, select whether to filter avatars and gender, enter age range to filter, select whether to filter language, choose whether to export avatar images, enter starting count, and automatically generate specified number of data that meets the conditions.
+
+![3](https://github.com/whatsapp-filter/CrownSoft-WhatsApp-Cloud-Filter/assets/130629588/4b284771-4f66-4d18-a2fd-a7f9abca0832)
+
+-Filter whatsapp account data download-
+
+![4](https://github.com/whatsapp-filter/CrownSoft-WhatsApp-Cloud-Filter/assets/130629588/98cfbb1f-b400-4c0b-b7d0-78929ba89e73)
+
+After completing the WhatsApp Cloud Filter task, you can download and export the filtered WhatsApp account data in Excel format for viewing.
